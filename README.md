@@ -14,7 +14,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Thepetapixl/Thepetapixl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepetapixl&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepetapixl&hide=Jupyter Notebook&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
 
 <a href="https://github.com/Thepetapixl/Thepetapixl">
