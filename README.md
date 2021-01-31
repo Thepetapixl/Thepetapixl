@@ -4,7 +4,7 @@
 **Thepetapixl/Thepetapixl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### My name is Apurv Vidhate and I am a student who is in his 3rd year of a 4 year Bachelor's Degree in Computer Science and Engineering.
+### My name is Apurv Vidhate. I am a student who is in his 3rd year of a 4 year Bachelor's Degree in Computer Science and Engineering.
 
 
 - 🔭 I’m currently working on a Smart Parking system which would help you find a parking lot without the need for you to go around in circles and save your valuable time!
