@@ -14,7 +14,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Thepetapixl/Thepetapixl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepetapixl&hide=Jupyter Notebook,HTML&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepetapixl&hide=jupyter%20notebook,HTML&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
 
 <a href="https://github.com/Thepetapixl/Thepetapixl">
@@ -23,5 +23,5 @@
 
 ### My current project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thepetapixl&repo=Mini-Project-III&show_owner=True)](https://github.com/Thepetapixl/Mini-Project-III)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thepetapixl&repo=Mini-Project-III&show_owner=True&theme=tokyonight)](https://github.com/Thepetapixl/Mini-Project-III)
 
