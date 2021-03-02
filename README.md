@@ -14,11 +14,12 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Thepetapixl/Thepetapixl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepetapixl&hide=jupyter%20notebook,CSS&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thepetapixl&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" alt="Thepetapixl's GitHub Stats" />
 </a>
 
+### My Most used Languages:
 <a href="https://github.com/Thepetapixl/Thepetapixl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thepetapixl&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" alt="Thepetapixl's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepetapixl&hide=jupyter%20notebook,CSS&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
 
 ### My last project:
