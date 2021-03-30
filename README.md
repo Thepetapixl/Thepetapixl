@@ -22,7 +22,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepetapixl&hide=jupyter%20notebook,CSS&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
 
-### My last project:
+### My Current project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thepetapixl&repo=Mini-Project-III&show_owner=True&theme=tokyonight)](https://github.com/Thepetapixl/Mini-Project-III)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thepetapixl&repo=Smart-Parking-Website&show_owner=True&theme=tokyonight)](https://github.com/Thepetapixl/Mini-Project-III)
+
+Protype can be found [here](https://github.com/Thepetapixl/Mini-Project-III).
 
