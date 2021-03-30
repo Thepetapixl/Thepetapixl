@@ -26,5 +26,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thepetapixl&repo=Smart-Parking-Website&show_owner=True&theme=tokyonight)](https://github.com/Thepetapixl/Mini-Project-III)
 
-Protype can be found [here](https://github.com/Thepetapixl/Mini-Project-III).
+Prototype can be found [here](https://github.com/Thepetapixl/Mini-Project-III).
 
