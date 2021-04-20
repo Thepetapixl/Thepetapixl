@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on a Smart Parking system which would help you find a parking lot without the need for you to go around in circles and save your valuable time!
-- 🌱 I’m currently learning Javascript and Django
+- 🌱 I’m currently learning Flutter
 
 
 ### &#x1f4c8; GitHub Stats:
