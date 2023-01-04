@@ -10,7 +10,7 @@
 
 <a href="https://github.com/Thepetapixl/Thepetapixl">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thepetapixl&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" alt="Thepetapixl's GitHub Stats" /> -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepetapixl&hide=javascript,html)](https://github.com/Thepetapixl/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api?username=thepetapixl&hide=javascript,html)](https://github.com/Thepetapixl/github-readme-stats)
 
 </a>
 
