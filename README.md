@@ -19,7 +19,7 @@
 
 ### My Current project:
 
-![Readme Card]((https://github-readme-stats.vercel.app/api?username=thepetapixl)](https://github.com/Thepetapixl/github-readme-stats)](https://github.com/Thepetapixl/Mini-Project-III)
+[![Apurv's Readme Card]((https://github-readme-stats.vercel.app/api?username=thepetapixl)](https://github.com/Thepetapixl/github-readme-stats)
 
 Prototype can be found [here](https://github.com/Thepetapixl/Mini-Project-III).
 
