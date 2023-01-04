@@ -12,4 +12,4 @@
 
 ### Favourite Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepetapixl&hide=jupyter%20notebook)](https://github.com/thepetapixl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepetapixl&hide=jupyter%20notebooktheme=tokyonight)](https://github.com/thepetapixl/github-readme-stats)
